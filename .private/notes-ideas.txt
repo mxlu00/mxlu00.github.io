@@ -1,8 +1,24 @@
-chatgpt snippets
+🏠 Homepage:
+a little welcome blurb that feels like you (“Hi, I’m Luca — this is my corner of the internet 💫”)
+a cute selfie or two
+quick links to your social places (discord handle, reddit, etc.)
+maybe a quote or motto that fits your energy
 
-nav:
-  - Home: index.md
-  - About: pages/about.md
-  - Beauty: pages/beauty.md
-  - Fitness: pages/fitness.md
-  - Journal: / # links to your blog feed
+📜 About / Fun Facts page:
+like a personality snapshot — a mix of “about me”, gender/identity, interests, favourite things
+could have sections like “Current obsessions,” “Things I believe,” “Tiny bio”
+
+🧠 Reflections / Journal page:
+this is where you’d keep personal essays, gender thoughts, or reflections — maybe with dates, but still easy to browse
+could be organized by topic instead of just chronologically (e.g. Gender & Expression, Self-Care, Philosophy, Random musings)
+
+💋 Gallery / Selfies page:
+maybe divided into “everyday”, “feminine looks”, “glam”, etc.
+this could even link out to your guns.lol or Pixieset gallery if you don’t want to host them all
+
+💭 Links / Projects / Misc page:
+cool stuff you’re doing, pages you like, maybe even a “resources I recommend” list
+totally flexible — could change over time without disrupting your main structure
+
+beauty? fitness? routines?
+body journey? hair care?

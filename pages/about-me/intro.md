@@ -8,7 +8,7 @@ tags: [about-me]
     • ˚✦ name: Lu  
     • ˚✦ age: 25  
     • ˚✦ gender: nonbinary genderfluid  
-    • ˚✦ pronouns: as presenting + check [my pronouns page](https://en.pronouns.page/@lu_00) + don’t worry about mistakes :)  
+    • ˚✦ pronouns: as presenting + check [my pronouns page](https://en.pronouns.page/@lu_00) + don't worry about mistakes :)  
     • ˚✦ sexuality: pan  
     • ˚✦ status: taken  
     • ˚✦ location: England  
