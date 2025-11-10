@@ -1,0 +1,13 @@
+chatgpt snippets
+
+theme: minima
+title: lola’s world
+description: reflections, routines & random thoughts 💋
+show_excerpts: true
+nav:
+  - Home: index.md
+  - About: pages/about.md
+  - Beauty: pages/beauty.md
+  - Fitness: pages/fitness.md
+  - Journal: / # links to your blog feed
+not all themes support nav: natively, but minima can do a basic navbar with a tiny tweak — or you can add a custom _includes/header.html to display these links manually.
