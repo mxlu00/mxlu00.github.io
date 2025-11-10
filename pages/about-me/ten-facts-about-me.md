@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title:  "ten facts about me"
-date:   2025-11-06 13:45:00 Europe/London
-tags: [permanent, about-me]
+tags: [about-me]
 ---
-1. i’m genderfluid, and right now i’m using feminine terms and she/her pronouns :) i love gender stuff it’s fun and exciting and makes me feel happy! 
+
+1. i’m genderfluid --- i love gender stuff it’s fun and exciting and makes me feel happy! 
 2. im getting into fashion and finding an aesthetic (: i like pretty dresses and make up hehe 💄💅
 3. i love maths and im a maths tutor 
 4. i’m in a long distance relationship (we’re open and im kind of the slutty kinky friend 🫶🏻)

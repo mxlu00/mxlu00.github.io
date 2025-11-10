@@ -1,23 +1,20 @@
 ---
-layout: post
+layout: page
 title:  "intro"
-date:   2025-11-04 08:59:00 Europe/London
-tags: [permanent, about-me]
+tags: [about-me]
 ---
+
 ꨄ︎ ╭────────────╯  
     • ˚✦ name: Lu  
     • ˚✦ age: 25  
     • ˚✦ gender: nonbinary genderfluid  
-    • ˚✦ pronouns: as presenting. in bio. don’t worry too much :)  
-    • ˚✦ location: England  
+    • ˚✦ pronouns: as presenting + check [my pronouns page](https://en.pronouns.page/@lu_00) + don’t worry about mistakes :)  
+    • ˚✦ sexuality: pan  
     • ˚✦ status: taken  
-    • ˚♕ sexuality: pan  
+    • ˚✦ location: England  
     • ˚♕ interests: maths, computers, beauty  
     • ˚♕ hobbies: working out, meeting new people, learning, doing gender  
     • ˚♕ media: frozen, sabrina carpenter, children of time, once upon a time, runescape  
     • ˚♕ likes: beaches, sunlight, nature, pink things  
     • ˚♕ dislikes: mean ppl  
-    • ˚✦ dm status: be 18+, keep it clean, and ask first  
    ╰─────────── ·     ·   ·     ·  ✦
-
-   test [a link](/latest/index.html)

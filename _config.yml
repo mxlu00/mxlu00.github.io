@@ -31,13 +31,9 @@ title: Lu's website
 ###############################################
 
 navbar-links:
-  About Me: 
-    - Intro: 2025-11-04-intro
-    - 10 Facts: 2025-11-06-10-facts
-  Latest: latest
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  about me: nav/about-me
+  reflections: nav/reflections
+  latest: latest
 
 # This line tells the html that latest/index.html is a "home page" with a feed of latets posts
 paginate_path: "/latest/page:num/"
