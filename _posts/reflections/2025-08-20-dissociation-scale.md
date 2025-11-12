@@ -2,7 +2,7 @@
 layout: post
 title:  "dissociation scale"
 date:   2025-08-20 10:25:00 Europe/London
-tags: [reflections]
+tags: [reflections, mental-health]
 ---
 
 5 — Completely/painfully disconnected from reality.  

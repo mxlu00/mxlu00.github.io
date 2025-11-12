@@ -20,5 +20,10 @@ this could even link out to your guns.lol or Pixieset gallery if you don’t wan
 cool stuff you’re doing, pages you like, maybe even a “resources I recommend” list
 totally flexible — could change over time without disrupting your main structure
 
-beauty? fitness? routines?
-body journey? hair care?
+"aesthetic and transformation" category content/word associations: fitness, beauty, routine, any activities and changes, femininity, the journey of shaping yourself, body journey, hair care, growth, self-care
+
+chatGPT text colours:
+#403b3d (muted charcoal for readability)
+#404040 (the one Beautiful Jekyll already uses — nice balance)
+#4a3f48 (a slightly warmer, mauve-tinted dark grey — feminine without being “pink”)
+#5a4c58 (a dusty lilac-taupe tone that looks gorgeous with pastel accents)

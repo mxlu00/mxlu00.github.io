@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "intro"
-tags: [about-me]
 ---
 
 ꨄ︎ ╭────────────╯  
