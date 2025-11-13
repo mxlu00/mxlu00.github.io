@@ -22,5 +22,5 @@ Most of the time on most days.
 Description: The present feels foggy. Recall is kind of difficult. Memories feel emotionally/personally disconnected. 
 
 1 — Connected to reality.  
-Examples: Spending time with friends on good days in person, things like playing games together and going to the beach; looking into my partner's eyes.
+Examples: Spending time with friends on good days in person, things like playing games together and going to the beach; looking into my partner's eyes.  
 Description: Feels like I'm actually seeing what's around me in full colour. 
