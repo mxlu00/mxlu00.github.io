@@ -7,11 +7,11 @@ tags: [reflections, mental-health]
 
 5 — Completely/painfully disconnected from reality.  
 Examples: Intoxicated; the very groggiest middle of the night wake up; fainting; dreaming.  
-Description: The present feels completely unreal, time doesn't exist, I completely lack any emotional confidence that my “memory” of the immediate past is what just happened. Sometimes this makes me actually feel that things aren't real, which is deeply uncomfortable; usually, I can work with Sherlock's “the only possibility, how ever improbable” 😃
+Description: The present feels completely unreal, time doesn't exist, I completely lack any emotional confidence that my "memory" of the immediate past is what just happened. Sometimes this makes me actually feel that things aren't real, which is deeply uncomfortable; usually, I can work with Sherlock's "the only possibility, how ever improbable" 😃
 
 4 — Overwhelmingly disconnected from reality.  
 Example: Bumping into family member in public on a bad day and barely recognising them.  
-Description: The present feels overwhelmingly foggy, time is confusing, the “Did that just happen?” feeling is overwhelming.
+Description: The present feels overwhelmingly foggy, time is confusing, the "Did that just happen?" feeling is overwhelming.
 
 3 — Badly disconnected from reality.  
 Examples: When I'm pacing; when I miss whole episodes of tv.  

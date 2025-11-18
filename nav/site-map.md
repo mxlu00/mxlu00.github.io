@@ -3,16 +3,16 @@ layout: page
 title: "site map"
 ---
 
-- [about me](/nav/about-me)
+- [about me](/nav/about-me) (2 pages)
 
-- [reflections](/nav/reflections)
+- [reflections](/nav/reflections) (2 posts)
 
-- [maths](/nav/maths)
+- [maths](/nav/maths) (0 posts)
 
-- [aesthetic and transformation](/nav/aesthetic-and-transformation)
+- [aesthetic and transformation](/nav/aesthetic-and-transformation) (0 posts)
 
-- [projects](/nav/projects)
+- [projects](/nav/projects) (0 posts)
 
-- [other](/nav/other)
+- [other](/nav/other) (0 posts)
 
 - [latest](/latest)
