@@ -2,47 +2,41 @@
 layout: post
 title:  "gender identity"
 date:   2025-02-24 18:49:00 Europe/London
+last-updated: 2025-11-19 12:18:00 Europe/London
 tags: [reflections, gender]
 ---
 
-"what is a woman?" i don't know. 
-
-here are some of *my personal thoughts* about a thing called "sex" or "gender", or two things called "sex" and "gender". i'm not very familiar with other people's thoughts (probably less than i should be).
-
-i am not trying to come across as presumptuous or hostile if read by someone who doesn't know or understand or agree!!! i am sharing specifically for their benefit <3 
-
-please read to the end... i just had to pick some order to write down thoughts in, the intended experience is for you to read all of them.
+uh pretty big disclaimers: these are some of *my personal thoughts* that i've worked through. i'm not very familiar with other people's thoughts (probably less than i should be). i am not trying to come across as presumptuous or hostile if read by someone who doesn't know or understand or agree!!! i am sharing largely for their benefit <3 please read to the end, the order i get my thoughts down is essentially random, the intended experience is to read all of them.
 
 # sex
 "sex" is... something external? ways people characterise sex include:
 - a person's sex is strictly about their reproductive role (the people they can reproduce with).
 - a person's sex is strictly about their external reproductive organ.
-- a person's sex is strictly about their genes.
-- a person's sex is associated with a wide array of different physical features.
-- a person's sex is associated with features of their brain structure and activity, according to some studies.
+- a person's sex is strictly about their chromosomes.
+- a person's sex is associated with numerous physical features.
 
 # gender
 "gender" is... something internal? ways people characterise gender include:
 - a person's gender is strictly the word that's the same as their sex.
+- a person's gender is strictly something they know about themselves. 
+- a person's gender is associated with the way they want to be perceived and go through life, e.g. being treated like other people of their gender are treated. 
+- a person's gender is associated with many of their learned behaviours ("gender performativity"), including things like the clothes and hairstyles they wear and the words they use to describe themselves.
+- a person's gender is associated with societal expectations and limits, such as roles like leaders, priests and servants.
 
-- a person's gender is strictly something they know about themselves. (this feeling is "real" enough that it has been seen on brain scans: when seeing themselves or someone else, their brain activity is different when they recognise/relate compared to when they don't.)
+(the next and final sections are incomplete and contain unfinished and/or unorganised thoughts.)
 
-- a person's gender is associated with the way they want to be perceived and go through life, e.g. being treated like other people of their gender are treated. (being perceived incorrectly (misgendered) is usually associated with severe distress (dysphoria).)
+# binary?
+humans love inventing boxes to put things in! of course, pattern recognition is a strength of our amazing brains, even though its origin is the fundamental weakness that we can't think about countless things. thinking, speaking, and ultimately getting through the day would be impossible without inventing boxes.
 
-- a person's gender is associated with most of the things they do ("performing gender"), including things like the clothes and hairstyles they wear, the words they use to describe themselves, and the work they do.
+reading the above ideas carefully, not one of them **really** has a specific number of options. there is no limit to the ways people ultimately are all different from each other. all of the ideas are also different from each other and don't always align. obviously *something* exists that differs between people, that's how babies are made. indeed it takes exactly two different people to have a baby. (*logically* this only means a pair of people who have a baby have a pair of different sexes: it doesn't mean there are a total of two sexes because it doesn't mean all the different pairs of people have the same two sexes, and it also doesn't mean anything about the sex of anyone who doesn't have a baby.) in seemingly all cultures, gender exists as a concept associated with sex (i.e. sexees have associated societal roles, behaviours, and feelings), and people have [invented classifications of sex and gender](https://www.britannica.com/list/6-cultures-that-recognize-more-than-two-genders) based on at least two of them (the "binary" genders), and presumably this fact is the origin of that.
 
-(the next and final sections are incomplete and contain all unfinished thoughts.)
+a system of only two boxes (binary sex and binary gender) is used in western culture. ultimately these boxes are not reality, and interpreting them that way is flat out incorrect. we use the term "intersex" for the people who can't be recognised as either binary sex (up to 2% of people, according to a study), while non-binary genders just use the term non-binary (0.34% of people didn't select a binary gender in the most recent English census).
 
-# intersex and non-binary gender
-even though neither physical or mental characteristics actually come in binary classifications, humans love classifying things anyway, and language would be much harder if we didn't... for this reason, we often only talk about the two most common sexes and use the term "intersex" for everyone else (up to 2% of people, according to a study). we often only talk about the two most common genders and use the term "non-binary" for everyone else (0.34% of people didn't select a binary gender in the most recent English census).
+(this feeling is "real" enough that it has been seen on brain scans: when seeing themselves or someone else, their brain activity is different when they recognise/relate compared to when they don't.)
 
-individually: none of them describe only two options. not all of them actually make sense. 
+(being perceived incorrectly (misgendered) is usually associated with severe distress (dysphoria).)
 
-as a group: they are different and don't necessarily agree with each other. 
-
-these ideas naturally mean there is an indefinite and unlimited number of different sexes and genders in humans, because different people are different, occasionally significantly so. still, we associate these ideas and they reinforce each other. 
-
-we make generalisations and assumptions because we have to get through the day somehow! assuming a particular person with an unknown number of arms has two arms is very different from making universal assertions that people who don't have two arms don't exist (and this is still very different from making it illegal or impossible for them to live with the very real things that means for them). 
+assuming a particular person with an unknown number of arms has two arms is very different from making universal assertions that people who don't have two arms don't exist (and this is still very different from making it illegal or impossible for them to live with the very real things that means for them). 
 
 # transgender
 we live in a society. sex and gender are so universally and deeply associated that many of us have fully internalised the idea these are many aspects of a single strict binary classification where the words "sex" and "gender" are synonyms. in particular, sex and gender are not only assumed, but they're also assumed to match.
@@ -60,12 +54,3 @@ what about other things and analogies and silly things people say?
 "trans height"? is it possible for someone to have a height in their brain? no...! height isn't a mental characteristic. "trans race"? actually possibly exists, idfk what race is.
 
 i'm comparing it to identity disorders ('multiple personalities'). is it possible for someone to have an identity in their brain? yes...! they obviously don't have separate physical bodies, but these words don't mean that they do.
-
-# my gender
-the feelings i have aren't the same all the time. 
-
-"i am a woman" like "i am a mathematician", it's a part of my identity that arises from experience, im always one even though im not always actively one and im always a man too.
-
-basically i feel differently at different times and i want to express that and be seen as how i am 😊
-
-A thing that happens is I slowly feel different feelings but don't feel ready to switch the way I recognise it so there's some days I just don't have words for
