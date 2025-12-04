@@ -8,14 +8,6 @@ maybe a quote or motto that fits your energy
 like a personality snapshot — a mix of “about me”, gender/identity, interests, favourite things
 could have sections like “Current obsessions,” “Things I believe,” “Tiny bio”
 
-🧠 Reflections / Journal page:
-this is where you’d keep personal essays, gender thoughts, or reflections — maybe with dates, but still easy to browse
-could be organized by topic instead of just chronologically (e.g. Gender & Expression, Self-Care, Philosophy, Random musings)
-
-💋 Gallery / Selfies page:
-maybe divided into “everyday”, “feminine looks”, “glam”, etc.
-this could even link out to your guns.lol or Pixieset gallery if you don’t want to host them all
-
 💭 Links / Projects / Misc page:
 cool stuff you’re doing, pages you like, maybe even a “resources I recommend” list
 totally flexible — could change over time without disrupting your main structure
@@ -27,3 +19,9 @@ chatGPT text colours:
 #404040 (the one Beautiful Jekyll already uses — nice balance)
 #4a3f48 (a slightly warmer, mauve-tinted dark grey — feminine without being “pink”)
 #5a4c58 (a dusty lilac-taupe tone that looks gorgeous with pastel accents)
+
+ChatGPT wrote these lines about personality in my intro in response to this prompt
+"My masculine energy is definitely medium soft, you know, I'm still a person who has feminine days! I'm very sincere and I love building up my bros, you know, stuff like that. I'm definitely quite shy. I have a bunch of masculine bro energy, just totally in a soft way. Your suggestion of being a bit more direct is fair too, but really just a bit."
+• I’m pretty soft-spoken and a bit shy, but I love getting to know people.  
+• I switch between masc and femme energy depending on the day, and I’m comfortable with both.  
+• I’m big on sincerity, hyping up my friends, and trying to be good to the people around me.  

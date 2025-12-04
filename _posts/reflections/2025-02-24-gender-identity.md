@@ -6,6 +6,8 @@ last-updated: 2025-11-22 21:47:00 Europe/London
 tags: [reflections, gender]
 ---
 
+These are my thoughts about the question: what **is** gender identity? Obviously my feelings are very different from binary trans people in some ways. Some of my thoughts about gender identity are things I know about their thoughts. This is what it means **to me** to say I'm non-binary (and *not* a man with some characteristics that are different from average).
+
 uh pretty big disclaimers: these are some of *my personal thoughts* that i've worked through. i'm not very familiar with other people's thoughts (probably less than i should be). i am not trying to come across as presumptuous or hostile if read by someone who doesn't know or understand or agree!!! i am sharing largely for their benefit <3 at the same time, i don't want to sound like i'm trying to "teach". i only have my personal thoughts and feelings.
 
 # what is gender/sex?
@@ -35,7 +37,11 @@ this is just as true as the fact that some people don't. while binary gender (th
 
 (the next and final sections are incomplete and contain unfinished and/or unorganised thoughts.)
 
-# transgender
+# Transgender
+When a baby is born, it is commonly required for someone (e.g. a doctor) to choose a binary sex to write down. For most people, this is an easy choice based on a single look at their newborn genitals. For some intersex people whose genitals aren't easily classifiable, the choice is more random, and may be followed up with unnecessary surgeries to make the choice more correct. The gender that matches that sex that was picked for them is their gender **assigned at birth**.
+
+Because it is easy to make judgements based on things we can see, it is normal to assume people's gender. 
+
 we live in a society. sex and gender are so universally and deeply associated that many of us have fully internalised the idea these are many aspects of a single strict binary classification where the words "sex" and "gender" are synonyms. in particular, sex and gender are not only assumed, but they're also assumed to match.
 
 (this feeling is "real" enough that it has been seen on brain scans: when seeing themselves or someone else, their brain activity is different when they recognise/relate compared to when they don't.)
@@ -53,7 +59,7 @@ what about other things and analogies and silly things people say?
 i'm comparing it to identity disorders ('multiple personalities'). is it possible for someone to have an identity in their brain? yes...! they obviously don't have separate physical bodies, but these words don't mean that they do.
 
 # ... really?
-a point that occurs to me is that a question of existence or possibility is definitively answered by a single example. trans people exist. people whose genders aren't binary exist. people whose genders aren't the same as their sexes exist. we are right here --- hello! it's nice to meet you!
+a point that occurs to me is that a question of existence or possibility is definitively answered by a single example. trans people exist. people whose genders aren't binary exist. people whose genders aren't the same as their assigned sexes exist. we are right here --- hello! it's nice to meet you!
 
 i suspect more people would understand if gender was something not associated with sex, and e.g. new words different from 'man' and 'woman' were used instead.
 

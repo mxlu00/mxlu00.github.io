@@ -1,19 +1,23 @@
 ---
 layout: page
-title:  "intro"
+title:  "Intro"
 ---
 
-ꨄ︎ ╭────────────╯  
-    • ˚✦ name: Lu  
-    • ˚✦ age: 25  
-    • ˚✦ gender: nonbinary genderfluid  
-    • ˚✦ pronouns: as presenting + check [my pronouns page](https://en.pronouns.page/@lu_00) + don't worry about mistakes :)  
-    • ˚✦ sexuality: pan  
-    • ˚✦ status: taken  
-    • ˚✦ location: England  
-    • ˚♕ interests: maths, computers, beauty  
-    • ˚♕ hobbies: working out, meeting new people, learning, doing gender  
-    • ˚♕ media: frozen, sabrina carpenter, children of time, once upon a time, runescape  
-    • ˚♕ likes: beaches, sunlight, nature, pink things  
-    • ˚♕ dislikes: mean ppl  
-   ╰─────────── ·     ·   ·     ·  ✦
+<p>ꨄ︎ ╭────────────╯
+<ul class="identity-list">
+    <li>Name: Lu</li>
+    <li>Age: 25</li>
+    <li>Gender: Nonbinary genderfluid</li>
+    <li>Pronouns: As presenting + check <a href="https://en.pronouns.page/@lu_00">my pronouns page</a> + don't worry about mistakes :)</li>
+    <li>Sexuality: Pan</li>
+    <li>Status: Taken</li>
+    <li>Location: England</li>
+</ul>
+<ul class="interests-list">
+    <li>Interests: Maths, computers, beauty</li>
+    <li>Hobbies: Working out, meeting new people, learning, doing gender</li>
+    <li>Media: Frozen, Sabrina Carpenter, Children of Time, Once Upon a Time, Runescape</li>
+    <li>Likes: Beaches, sunlight, nature, pink things</li>
+    <li>Dislikes: Meanness and insincerity</li>
+</ul>
+   ╰─────────── ·     ·   ·     ·  ✦</p>

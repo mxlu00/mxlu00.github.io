@@ -1124,3 +1124,48 @@ pre {
     display: inline-block;
   }
 }
+
+/* List spacing */
+ul {
+  margin: 0;
+}
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+
+/* 
+    TEST FEATURE #1:
+    Vibe-based bullet icons
+*/
+
+/* Reset default list bullets */
+.identity-list li,
+.interests-list li {
+    list-style: none;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+/* bullet position */
+.identity-list li::before,
+.interests-list li::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* Femme mode bullets */
+body.femme .identity-list li::before {
+    content: "✧";
+}
+body.femme .interests-list li::before {
+    content: "✦";
+}
+
+/* Masc mode bullets */
+body.masc .identity-list li::before {
+    content: "•";
+}
+body.masc .interests-list li::before {
+    content: "–";
+}

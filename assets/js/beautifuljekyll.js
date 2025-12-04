@@ -140,3 +140,25 @@ let BeautifulJekyllJS = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+document.addEventListener("DOMContentLoaded", function () {
+    const body = document.body;
+
+    // load saved vibe
+    const saved = localStorage.getItem("vibe");
+    if (saved === "masc" || saved === "femme") {
+        body.classList.add(saved);
+    } else {
+        // default vibe
+        body.classList.add("femme");
+    }
+
+    // toggle
+    document.getElementById("vibe-toggle")?.addEventListener("click", () => {
+        body.classList.toggle("femme");
+        body.classList.toggle("masc");
+
+        const newVibe = body.classList.contains("masc") ? "masc" : "femme";
+        localStorage.setItem("vibe", newVibe);
+    });
+});
