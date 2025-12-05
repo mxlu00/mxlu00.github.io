@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "dissociation scale"
+vibe: masc
 date:   2025-08-20 10:25:00 Europe/London
 tags: [reflections, mental-health]
 ---

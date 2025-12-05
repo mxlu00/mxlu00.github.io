@@ -139,26 +139,41 @@ let BeautifulJekyllJS = {
 
 // 2fc73a3a967e97599c9763d05e564189
 
-document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+function vibeToggle() {
+  const body = document.body;
 
-document.addEventListener("DOMContentLoaded", function () {
-    const body = document.body;
+  body.classList.add("vibe-transition");
+  setTimeout(() => {
+    body.classList.remove("vibe-transition");
+  }, 400);
 
+  const vibes = ["masc", "femme"];
+  body.classList.toggle(vibes[0]);
+  const isIndexOne = body.classList.toggle(vibes[1]);
+  // "toggle" is called TWICE to switch: the first time removes/adds 0 
+  // and the second time adds/removes 1. the new vibe is the one added.
+  // isIndexOne is true if 1 added (and 0 removed),
+  // and false if 1 removed (and 0 added).
+  // so the new vibe is "vibes[isIndexOne]", plus conversion to int *sigh*
+  localStorage.setItem("vibe", vibes[isIndexOne ? 1 : 0]);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  BeautifulJekyllJS.init();
+
+  const body = document.body;
+
+  if (!body.classList.contains("fixed-vibe")) {
     // load saved vibe
     const saved = localStorage.getItem("vibe");
     if (saved === "masc" || saved === "femme") {
-        body.classList.add(saved);
+      body.classList.add(saved);
     } else {
-        // default vibe
-        body.classList.add("femme");
+      // default vibe
+      body.classList.add("masc");
     }
 
-    // toggle
-    document.getElementById("vibe-toggle")?.addEventListener("click", () => {
-        body.classList.toggle("femme");
-        body.classList.toggle("masc");
-
-        const newVibe = body.classList.contains("masc") ? "masc" : "femme";
-        localStorage.setItem("vibe", newVibe);
-    });
+    document.getElementById("vibe-toggle")?.addEventListener("click", vibeToggle);
+  }
 });
+

@@ -25,3 +25,11 @@ ChatGPT wrote these lines about personality in my intro in response to this prom
 • I’m pretty soft-spoken and a bit shy, but I love getting to know people.  
 • I switch between masc and femme energy depending on the day, and I’m comfortable with both.  
 • I’m big on sincerity, hyping up my friends, and trying to be good to the people around me.  
+
+Then we start adding:
+- colour palette 
+- lowercase/sentence-case shift 
+- emoji switch 
+- button design and press 
+- maybe a smoother toggle animation 
+- theme-aware transitions

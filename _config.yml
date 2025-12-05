@@ -139,17 +139,30 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#fff9fb"          # soft rose white background
-text-col: "#5a4c58"          # a dusty lilac-taupe tone that looks gorgeous with pastel accents
-link-col: "#ff6fa9"          # candy pink links
-hover-col: "#ff94c6"         # lighter hover colour
-navbar-col: "#ffeaf2"        # very pale pink navbar
-navbar-text-col: "#403b3d"   # same muted text
-navbar-border-col: "#ffd6e5" # subtle pink divider
-footer-col: "#ffeaf2"        # matching footer
-footer-text-col: "#6b5f65"   # soft grey-pink text
-footer-link-col: "#ff6fa9"   # consistent with link colour
-footer-hover-col: "#ff94c6"  # matching hover
+page-col:           "#f7f9ff"    # soft eggshell blue-grey background
+text-col:           "#3e4655"    # desaturated slate, clean + readable
+link-col:           "#4d7cff"    # soft cobalt, confident but not loud
+hover-col:          "#7699ff"    # lighter, friendly hover tone
+navbar-col:         "#e0e7ff"    # deeper periwinkle-tinted blue-white for better contrast
+navbar-text-col:    "#2f343d"    # dark muted charcoal-blue
+navbar-border-col:  "#c2cffc"    # a clearer mid-periwinkle for stronger structure
+footer-col:         "#e0e7ff"    # matching footer
+footer-text-col:    "#505866"    # soft blue-grey text
+footer-link-col:    "#4d7cff"    # matches main link colour
+footer-hover-col:   "#7699ff"    # matching hover
+
+# Femme palette:
+# page-col: "#fff9fb"          # soft rose white background
+# text-col: "#5a4c58"          # a dusty lilac-taupe tone that looks gorgeous with pastel accents
+# link-col: "#ff6fa9"          # candy pink links
+# hover-col: "#ff94c6"         # lighter hover colour
+# navbar-col: "#ffeaf2"        # very pale pink navbar
+# navbar-text-col: "#403b3d"   # same muted text
+# navbar-border-col: "#ffd6e5" # subtle pink divider
+# footer-col: "#ffeaf2"        # matching footer
+# footer-text-col: "#6b5f65"   # soft grey-pink text
+# footer-link-col: "#ff6fa9"   # consistent with link colour
+# footer-hover-col: "#ff94c6"  # matching hover
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

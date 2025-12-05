@@ -44,6 +44,10 @@
                 Last updated {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
+            <span class="post-meta">
+              <span class="d-none d-md-inline middot">&middot;</span>
+              <span class="vibe-badge">{{ page.vibe  }}</span>
+            </span>
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}

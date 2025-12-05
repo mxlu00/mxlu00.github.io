@@ -1125,47 +1125,126 @@ pre {
   }
 }
 
-/* List spacing */
-ul {
-  margin: 0;
-}
-p:has(+ ul) {
-  margin-bottom: 0;
+/* Femme colour scheme */ 
+:root {
+  body.femme {
+    --page-col: #fff9fb;
+    --text-col: #5a4c58;
+    --link-col: #ff6fa9;
+    --hover-col: #ff94c6;
+    --navbar-col: #ffeaf2;
+    --navbar-text-col: #403b3d;
+    --navbar-border-col: #ffd6e5;
+    --footer-col: #ffeaf2;
+    --footer-text-col: #6b5f65;
+    --footer-link-col: #ff6fa9;
+    --footer-hover-col: #ff94c6;
+  }
 }
 
-/* 
-    TEST FEATURE #1:
-    Vibe-based bullet icons
+/*
+    These are changes to my main page content, i.e. not the header and footer; and the title. 
 */
 
-/* Reset default list bullets */
-.identity-list li,
-.interests-list li {
-    list-style: none;
-    position: relative;
-    padding-left: 1.5rem;
+main, h1 {
+  /* Here be lists */ 
+  /* Spacing */
+  p:has(+ ul:not(.pagination)) { margin-bottom: 0; }
+  ul { 
+    margin: 0;
+    + p { margin-top: 0; }
+
+    /* Bullet icons: Set to a simple default */
+    li {
+      list-style: none;
+      position: relative;
+      padding-left: 1.5rem;
+    }
+    li::before {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+  }
+
+  /* Icons will be different in masc and femme mode, set below */
 }
 
-/* bullet position */
-.identity-list li::before,
-.interests-list li::before {
-    position: absolute;
-    left: 0;
-    top: 0;
+/* Vibe button */
+#vibe-toggle {
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  background: var(--link-col);
+  color: white;
+  transition: background 0.3s, transform 0.25s;
 }
 
-/* Femme mode bullets */
-body.femme .identity-list li::before {
-    content: "✧";
-}
-body.femme .interests-list li::before {
-    content: "✦";
+#vibe-toggle:active {
+  transform: scale(0.92);
 }
 
-/* Masc mode bullets */
-body.masc .identity-list li::before {
-    content: "•";
+body.femme #vibe-toggle .vibe-icon::after {
+  content: "✧";
 }
-body.masc .interests-list li::before {
-    content: "–";
+
+body.masc #vibe-toggle .vibe-icon::after {
+  content: ":)";
 }
+
+body.vibe-transition * {
+  transition: all 0.5s ease;
+}
+
+/* Posts: Fixed vibe */
+body.fixed-vibe #vibe-toggle { display: none; }
+
+.vibe-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 0.7em;
+  opacity: 0.8;
+  background: var(--link-col);
+  color: var(--text-col);
+}
+
+/* Masc vibe style settings */
+body.masc {
+  .emoji1::after { content: ":)"; }
+  .emoji2::after { content: ":D"; }
+  /* content-only settings (main + title) */
+  main, h1 {
+    /* Here be lists */
+    ul:not(.pagination) li::before {
+      content: "•";
+    }
+    ul:not(.pagination).alt li::before {
+      content: "–";
+    }
+  }
+}
+
+/* Femme vibe style settings */
+body.femme {
+  .emoji1::after { content: "<3"; }
+  .emoji2::after { content: "c:"; }
+  /* content-only settings (main + title) */
+  main, h1 {
+    /* Here be lists */
+    ul:not(.pagination) li::before {
+      content: "✧";
+    }
+    ul:not(.pagination).alt li::before {
+      content: "✦";
+    }
+  }
+  /* main-only settings */
+  main {
+    /* Lowercase */
+    text-transform: lowercase;
+    .preserve-case { text-transform: none; }
+  }
+}
+
